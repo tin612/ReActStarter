@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tin612/ReActStarter/issues"
   },
-  "homepage": "https://github.com/tin612/ReActStarter#readme"
+  "homepage": "https://github.com/tin612/ReActStarter#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-latest": "^6.24.1"
+  }
 }
